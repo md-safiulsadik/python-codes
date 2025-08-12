@@ -1,8 +1,6 @@
-
 import sys
 from PyQt5.QtGui import QIcon, QFont, QPixmap
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QPushButton
-
 
 class MainWindow(QMainWindow):
     def __init__(self):
